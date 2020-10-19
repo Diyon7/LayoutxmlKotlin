@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Latihan No 3 (Constraint Layout)</string>
+    <string name="upn_veteran_jawa_timur">UPN VETERAN JAWA TIMUR</string>
+    <string name="button">Klik</string>
+    <string name="satu">Satu</string>
+    <string name="dua">Dua</string>
+    <string name="empat">Empat</string>
+    <string name="tiga">Tiga</string>
+    <string name="gedung_fik_2">GEDUNG FIK 2</string>
+    <string name="lab_komputer">LAB KOMPUTER</string>
+    <string name="kelas">KELAS</string>
+    <string name="ruang_seminar">RUANG SEMINAR</string>
+    <string name="selengkapnya">Selengkapnya</string>
+    <string name="gedung_fakultas_ilmu_komputer">GEDUNG FAKULTAS ILMU KOMPUTER</string>
+    <string name="gedung_fik_1">GEDUNG FIK 1</string>
+    <string name="isilatihangedung_fik_2">GEDUNG FIK 2</string>
+    <string name="isilatihanselengkapnya">SELENGKAPNYA</string>
+</resources>
